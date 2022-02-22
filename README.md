@@ -42,7 +42,7 @@ print("Number of words in a file:",count)
 ```
 ### OUTPUT:
 #### Program:
-![Output](./poutput.png)
+<img width="768" alt="Screenshot 2022-02-22 at 2 37 19 PM" src="https://user-images.githubusercontent.com/93427011/155099183-ba9e1ee1-3c8f-4066-a842-28babac21640.png">
 #### TextFile:
 ![Output](./toutput.png)
 
